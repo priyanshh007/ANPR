@@ -1,0 +1,43 @@
+[
+    {
+      "plate_number": "ABC123",
+      "make": "Toyota",
+      "model": "Corolla",
+      "color": "Silver",
+      "registration_date": "2022-01-15",
+      "owner": "John Doe"
+    },
+    {
+      "plate_number": "XYZ789",
+      "make": "Honda",
+      "model": "Civic",
+      "color": "Red",
+      "registration_date": "2021-11-20",
+      "owner": "Jane Smith"
+    },
+    {
+      "plate_number": "DEF456",
+      "make": "Ford",
+      "model": "F-150",
+      "color": "Black",
+      "registration_date": "2023-03-10",
+      "owner": "Michael Johnson"
+    },
+    {
+      "plate_number": "GHI789",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "color": "Blue",
+      "registration_date": "2020-09-05",
+      "owner": "Emily Brown"
+    },
+    {
+      "plate_number": "JKL321",
+      "make": "BMW",
+      "model": "3 Series",
+      "color": "White",
+      "registration_date": "2022-07-18",
+      "owner": "Christopher Lee"
+    }
+  ]
+  
